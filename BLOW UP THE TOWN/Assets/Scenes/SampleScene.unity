@@ -521,6 +521,7 @@ MonoBehaviour:
   buildingBlocks:
   - {fileID: 3187666017189009669, guid: e62745eead6108f44a1d1181428190c9, type: 3}
   - {fileID: 8535136305497560799, guid: f3dbeac2de3475540a98a2f84c5fa107, type: 3}
+  - {fileID: 2117317610911691610, guid: 8cfba1d0fe82c4e4d94d39bf450d752c, type: 3}
   gridZ: 15
   gridX: 15
   gridY: 1
@@ -618,6 +619,7 @@ MonoBehaviour:
   buildingBlocks:
   - {fileID: 5961279221400700244, guid: 866f9b6e1c2f9f64b9265afad71c40e1, type: 3}
   - {fileID: 2117317610911691610, guid: 8cfba1d0fe82c4e4d94d39bf450d752c, type: 3}
+  - {fileID: 24747807840132058, guid: 4ce34ac5adf2beb499512581961e103e, type: 3}
   gridZ: 15
   gridX: 15
   gridY: 1
