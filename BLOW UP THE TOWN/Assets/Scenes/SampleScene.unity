@@ -243,7 +243,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   buildingBlocks:
-  - {fileID: 3596856610371918489, guid: e1337f04cb4f76f48b3710191fe0e747, type: 3}
+  - {fileID: 1493201534371148573, guid: 2f065ae6f6eea2442ab9b66abffaf88e, type: 3}
   gridZ: 15
   gridX: 15
   gridY: 1
@@ -617,6 +617,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   buildingBlocks:
   - {fileID: 5961279221400700244, guid: 866f9b6e1c2f9f64b9265afad71c40e1, type: 3}
+  - {fileID: 2117317610911691610, guid: 8cfba1d0fe82c4e4d94d39bf450d752c, type: 3}
   gridZ: 15
   gridX: 15
   gridY: 1
@@ -668,7 +669,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   buildingBlocks:
   - {fileID: 2189432468437713709, guid: fa5b12a49b4545044b864b315d7b5fe1, type: 3}
-  - {fileID: 3596856610371918489, guid: e1337f04cb4f76f48b3710191fe0e747, type: 3}
+  - {fileID: 1493201534371148573, guid: 2f065ae6f6eea2442ab9b66abffaf88e, type: 3}
   gridZ: 15
   gridX: 15
   gridY: 3
