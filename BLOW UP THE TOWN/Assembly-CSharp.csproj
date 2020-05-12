@@ -63,7 +63,10 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Scripts\camera_move.cs" />
     <Compile Include="Assets\Scripts\GridSpawn.cs" />
+    <Compile Include="Assets\Scripts\PlantBomb.cs" />
+    <Compile Include="Assets\Scripts\Player.cs" />
     <Reference Include="Unity.Timeline.Editor">
       <HintPath>C:/Users/donnc/Documents/GitHub/GameTools-Game/BLOW UP THE TOWN/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
     </Reference>
