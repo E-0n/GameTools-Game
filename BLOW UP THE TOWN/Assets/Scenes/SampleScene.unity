@@ -593,7 +593,7 @@ MonoBehaviour:
   throwForce: 1
   bombPrefab: {fileID: 8835725012933663878, guid: 14b9cbed56bd5e9498bb03a611ab0622,
     type: 3}
-  amount: 4
+  amount: 5
 --- !u!33 &1419986750
 MeshFilter:
   m_ObjectHideFlags: 0
@@ -610,7 +610,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1419986747}
   m_LocalRotation: {x: -0, y: 0.9945123, z: -0, w: 0.10461964}
-  m_LocalPosition: {x: 33.4, y: 2.62, z: -38.8}
+  m_LocalPosition: {x: 144.3, y: 2.62, z: 177}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 1752143984}
