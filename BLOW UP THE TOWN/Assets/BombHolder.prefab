@@ -14,9 +14,9 @@ GameObject:
   - component: {fileID: 651961500106081891}
   - component: {fileID: 8335109611119739251}
   - component: {fileID: 6020530678901525810}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: BombHolder
-  m_TagString: Untagged
+  m_TagString: BOMBY
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -104,7 +104,7 @@ CapsuleCollider:
   m_Material: {fileID: 0}
   m_IsTrigger: 0
   m_Enabled: 0
-  m_Radius: 30
+  m_Radius: 20
   m_Height: 1
   m_Direction: 1
   m_Center: {x: 0, y: 0, z: 0}

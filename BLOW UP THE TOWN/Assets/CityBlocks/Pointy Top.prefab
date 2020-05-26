@@ -74,7 +74,6 @@ GameObject:
   - component: {fileID: 24747809488115149}
   - component: {fileID: 24747809488115150}
   - component: {fileID: 24747809488115151}
-  - component: {fileID: 24747809488115136}
   m_Layer: 0
   m_Name: Cube
   m_TagString: Untagged
@@ -3058,17 +3057,3 @@ MonoBehaviour:
   m_SelectedFaces: 
   m_SelectedEdges: []
   m_SelectedVertices: 
---- !u!64 &24747809488115136
-MeshCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 24747809488115138}
-  m_Material: {fileID: 0}
-  m_IsTrigger: 0
-  m_Enabled: 1
-  serializedVersion: 3
-  m_Convex: 0
-  m_CookingOptions: 14
-  m_Mesh: {fileID: 0}
